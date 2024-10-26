@@ -32,6 +32,28 @@
       "title": "Things Fall Apart",
       "year": 1958,
       "id": "8F627C92410"
+    },
+    {
+      "author": "Giovanni Boccaccio",
+      "country": "Italy",
+      "imageLink": "images/the-decameron.jpg",
+      "language": "Italian",
+      "link": "https://en.wikipedia.org/wiki/The_Decameron\n",
+      "pages": 1024,
+      "title": "The Decameron",
+      "year": 1351,
+      "id": "50E8CFEC0610"
+    },
+    {
+      "author": "Honoré de Balzac",
+      "country": "France",
+      "imageLink": "images/le-pere-goriot.jpg",
+      "language": "French",
+      "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
+      "pages": 443,
+      "title": "Le Père Goriot",
+      "year": 1835,
+      "id": "484CAB01CF8"
     }
   ],
   "books": [
